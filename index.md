@@ -6,7 +6,7 @@ This is Wu00018's page for Homework0 in the course of CS 193 he choosed. This is
 - I don't need to pay for any textbook, as there is no textbook required.
 - The magicword question in the attendence quiz is interesting.
 
-### --HelloWorld--
+### HelloWorld
 
 print('HelloWorld')
 
@@ -16,4 +16,4 @@ Bruh.
 
 ### KFCCRAZYTHURSDAYVME50
 
-Yesterday was KFC Crazy Thursday in China, and there is a meme about give somebody 50 yuan for four orignial recipe fired chicken and six egg tarts.
+Yesterday was KFC Crazy Thursday in China, and there is a meme about give somebody 50 yuan for four orignial recipe fried chicken and six egg tarts.
