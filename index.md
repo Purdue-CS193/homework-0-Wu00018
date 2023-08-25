@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Wu00018's Page
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is Wu00018's page for Homework0 in the course of CS 193 he choosed. This is just a testing page and has nothing meaningful.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### --HelloWorld--
 
-### Markdown
+print('HelloWorld')
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Bruh
 
-```markdown
-Syntax highlighted code block
+Bruh.
 
-# Header 1
-## Header 2
-### Header 3
+### KFCCRAZYTHURSDAYVME50
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Yesterday was KFC Crazy Thursday in China, and there is a meme about give somebody 50 yuan for four orignial recipe fired chicken and six egg tarts.
